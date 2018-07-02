@@ -12,7 +12,7 @@
   "public_key": "EOS56PyKoHXwyRkwDzr2uNhgDRioPoq5TwdN8Pm2hQGko7jrup2W5",
   "org": {
     "name": "AcroEOS",
-    "website": "https://www.acroeos.io/",
+    "website": "https://www.acroeos.one/",
     "email": "community@acroeos.io",
     "branding":{
       "logo": "logo-acroeos.png",
@@ -34,8 +34,8 @@
         "name": "South Korea"
       },
       "is_producer": false,
-      "p2p_endpoint": "",
-      "api_endpoint": "",
+      "p2p_endpoint": "fullnode.acroeos.one:9876",
+      "api_endpoint": "http://api.acroeos.one/",
       "ssl_endpoint": ""
     }
   ]
